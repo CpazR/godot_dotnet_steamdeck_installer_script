@@ -1,6 +1,9 @@
 # godot_dotnet_steamdeck_installer_script
 A set of scripts to install and configure running the dotnet version of the godot editor on steam deck.
 
+# TODO:
+Document initial keyring headaches. (dealt with it once during first installation of dotnet and haven't run into problems since)
+
 ## Getting started
 Download the source as a .zip and extract it wherever you plan on housing your godot binaries.
 
